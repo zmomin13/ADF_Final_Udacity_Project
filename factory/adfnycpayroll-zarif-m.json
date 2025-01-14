@@ -1,0 +1,9 @@
+{
+	"name": "adfnycpayroll-zarif-m",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bb712267-8329-46e3-86cb-57547eb6062b",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
